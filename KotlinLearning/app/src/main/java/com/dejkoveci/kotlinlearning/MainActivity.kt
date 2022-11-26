@@ -17,7 +17,9 @@ class MainActivity : AppCompatActivity() {
 
         var age = 35
 
-        println(age / 7 * 5)
+        val result = age / 7 * 5
+
+        println(result)
 
         age = 36
 
@@ -25,7 +27,22 @@ class MainActivity : AppCompatActivity() {
 
         val name = "Furkan"
 
-        val a = 5
+        val b = 5
+
+        //Defining
+        var myInteger : Int
+
+        //Initialize
+        myInteger = 10
+
+        myInteger = 20
+
+        val a : Int = 23
+        println(a/2)
+
+        //Double && Float
+
+
 
     }
 }
