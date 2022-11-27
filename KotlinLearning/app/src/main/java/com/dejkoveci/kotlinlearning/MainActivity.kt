@@ -38,9 +38,7 @@ class MainActivity : AppCompatActivity() {
         myInteger = 20
 
         val a : Int = 23
-        println(a/2)
-
-        //Double && Float
+        //println(a/2)
 
 
 
